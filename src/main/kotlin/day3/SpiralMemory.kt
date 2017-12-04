@@ -15,16 +15,18 @@ fun getCoordinatesForPosition(position: Int): Pair<Float, Float> {
     }
 }
 
-fun getValueForPosition(input: Int): Int {
-    if (input == 1) return 1
+fun getValueForPosition(input: Int, spiralValues: MutableMap<Int, Int> = mutableMapOf(1 to 1)): Int {
+    if (spiralValues.containsKey(input)) return spiralValues[input]!!
     val inputCoordinates = getCoordinatesForPosition(input)
-    return (input - 1 downTo 1)
+    val sum = (input - 1 downTo 1)
             .filter { position ->
                 val coordinates = getCoordinatesForPosition(position)
                 euclideanDistance(coordinates, inputCoordinates) <= sqrt(2f)
             }
-            .map(::getValueForPosition)
+            .map { getValueForPosition(it, spiralValues) }
             .sum()
+    spiralValues.put(input, sum)
+    return sum
 }
 
 fun euclideanDistance(p1: Pair<Float, Float>, p2: Pair<Float, Float>): Float {
@@ -40,7 +42,7 @@ fun getMemoryDistance(input: Int): Int {
     return taxiDistance(getCoordinatesForPosition(1), inputCoordinate).toInt()
 }
 
-fun stressTest(input: Int) : Int {
+fun stressTest(input: Int): Int {
     var i = 1
     var positionValue: Int
     while (true) {
