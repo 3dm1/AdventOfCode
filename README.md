@@ -8,3 +8,4 @@ Implementation of challenges in the kotlin advent of code 2017 http://adventofco
 - [High-Entropy Passphrase](http://adventofcode.com/2017/day/4) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day4/HighEntropyPassphrases.kt)
 - [Trampoline Maze](http://adventofcode.com/2017/day/5) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day5/TrampolineMaze.kt)
 - [Memory Reallocation](http://adventofcode.com/2017/day/6) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day6/MemoryReallocation.kt)
+- [Recursive Circus](http://adventofcode.com/2017/day/7) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day7/RecursiveCircus.kt)
