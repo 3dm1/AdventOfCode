@@ -11,3 +11,4 @@ Implementation of challenges in the kotlin advent of code 2017 http://adventofco
 - [Recursive Circus](http://adventofcode.com/2017/day/7) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day7/RecursiveCircus.kt)
 - [I Heard You Like Registers](http://adventofcode.com/2017/day/8) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day8/IHeardYouLikeRegisters.kt)
 - [Stream Processing](http://adventofcode.com/2017/day/9) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day9/StreamProcessing.kt)
+- [Knot Hash](http://adventofcode.com/2017/day/10) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day10/KnotHash.kt)
