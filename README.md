@@ -14,3 +14,4 @@ Implementation of challenges in the kotlin advent of code 2017 http://adventofco
 - [Knot Hash](http://adventofcode.com/2017/day/10) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day10/KnotHash.kt)
 - [Hex Ed](http://adventofcode.com/2017/day/11) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day11/HexEd.kt)
 - [Digital Plumber](http://adventofcode.com/2017/day/12) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day12/DigitalPlumber.kt)
+- [Packet Scanners](http://adventofcode.com/2017/day/13) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day13/PacketScanners.kt)
