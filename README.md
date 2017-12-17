@@ -18,3 +18,4 @@ Implementation of challenges in the kotlin advent of code 2017 http://adventofco
 - [Disk Defragmentation](http://adventofcode.com/2017/day/14) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day14/DiskDefragmentation.kt)
 - [Dueling Generators](http://adventofcode.com/2017/day/15) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day15/DuelingGenerators.kt)
 - [Permutation Promenade](http://adventofcode.com/2017/day/16) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day16/PermutationPromenade.kt)
+- [Spinlock](http://adventofcode.com/2017/day/17) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day17/Spinlock.kt)
