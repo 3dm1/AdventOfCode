@@ -7,7 +7,7 @@ class Program(private val instructions: List<String>,
               private val queue: MutableList<Long>,
               private val otherQueue: MutableList<Long>) {
 
-    private val registers: MutableMap<String, Long> = mutableMapOf("p" to id)
+    val registers: MutableMap<String, Long> = mutableMapOf("p" to id)
     private var currentPosition = 0
     var sendCount = 0
 

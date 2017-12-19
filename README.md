@@ -19,3 +19,5 @@ Implementation of challenges in the kotlin advent of code 2017 http://adventofco
 - [Dueling Generators](http://adventofcode.com/2017/day/15) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day15/DuelingGenerators.kt)
 - [Permutation Promenade](http://adventofcode.com/2017/day/16) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day16/PermutationPromenade.kt)
 - [Spinlock](http://adventofcode.com/2017/day/17) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day17/Spinlock.kt)
+- [Duet](http://adventofcode.com/2017/day/18) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day18/Duet.kt)
+- [A Series Of Tubes](http://adventofcode.com/2017/day/19) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day19/SeriesOfTubes.kt)
