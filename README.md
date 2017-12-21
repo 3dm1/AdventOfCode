@@ -22,3 +22,4 @@ Implementation of challenges in the kotlin advent of code 2017 http://adventofco
 - [Duet](http://adventofcode.com/2017/day/18) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day18/Duet.kt)
 - [A Series Of Tubes](http://adventofcode.com/2017/day/19) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day19/SeriesOfTubes.kt)
 - [Swarm Particle](http://adventofcode.com/2017/day/20) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day20/ParticleSwarm.kt)
+- [Fractal Art](http://adventofcode.com/2017/day/21) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day21/FractalArt.kt)
