@@ -1,7 +1,6 @@
 package day21
 
 import common.resourceToList
-import kotlin.system.measureTimeMillis
 
 
 data class Grid(private val rawGrid: String) {

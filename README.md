@@ -23,3 +23,4 @@ Implementation of challenges in the kotlin advent of code 2017 http://adventofco
 - [A Series Of Tubes](http://adventofcode.com/2017/day/19) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day19/SeriesOfTubes.kt)
 - [Swarm Particle](http://adventofcode.com/2017/day/20) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day20/ParticleSwarm.kt)
 - [Fractal Art](http://adventofcode.com/2017/day/21) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day21/FractalArt.kt)
+- [Sporifica Virus](http://adventofcode.com/2017/day/22) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day22/SporificaVirus.kt)
