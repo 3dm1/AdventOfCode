@@ -26,3 +26,4 @@ Implementation of challenges in the kotlin advent of code 2017 http://adventofco
 - [Sporifica Virus](http://adventofcode.com/2017/day/22) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day22/SporificaVirus.kt)
 - [Coprocessor Conflagration](http://adventofcode.com/2017/day/23) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day23/CoprocessorConflagration.kt)
 - [Electromagnetic Moat](http://adventofcode.com/2017/day/24) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day24/ElectromagneticMoat.kt)
+- [A Halting Problem](http://adventofcode.com/2017/day/25) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/day25/HaltingProblem.kt)
