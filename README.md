@@ -26,3 +26,7 @@
 - [Coprocessor Conflagration](http://adventofcode.com/2017/day/23) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/year2017/day23/CoprocessorConflagration.kt)
 - [Electromagnetic Moat](http://adventofcode.com/2017/day/24) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/year2017/day24/ElectromagneticMoat.kt)
 - [A Halting Problem](http://adventofcode.com/2017/day/25) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/year2017/day25/HaltingProblem.kt)
+
+## Solutions to [2015 Advent of Code](http://adventofcode.com/2015)
+
+- [Not Quite Lisp](http://adventofcode.com/2015/day/1) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/year2015/day1/NotQuiteLisp.kt)
