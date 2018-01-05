@@ -32,3 +32,4 @@
 - [Not Quite Lisp](http://adventofcode.com/2015/day/1) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/year2015/day1/NotQuiteLisp.kt)
 - [I Was Told There Would Be No Math](http://adventofcode.com/2015/day/2) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/year2015/day2/NoMath.kt)
 - [Perfectly Spherical Houses in a Vacuum](http://adventofcode.com/2015/day/3) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/year2015/day3/SphericalHouses.kt)
+- [The Ideal Stocking Stuffer](http://adventofcode.com/2015/day/4) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/year2015/day4/IdealStockingStuffer.kt)
