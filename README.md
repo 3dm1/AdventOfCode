@@ -30,3 +30,4 @@
 ## Solutions to [2015 Advent of Code](http://adventofcode.com/2015)
 
 - [Not Quite Lisp](http://adventofcode.com/2015/day/1) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/year2015/day1/NotQuiteLisp.kt)
+- [I Was Told There Would Be No Math](http://adventofcode.com/2015/day/2) - [Solution](https://github.com/3dm1/AdventOfCode2017/blob/master/src/main/kotlin/year2015/day2/NoMath.kt)
